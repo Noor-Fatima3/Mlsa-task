@@ -27,7 +27,7 @@ const siteProps = {
   name: "Noor Fatima",
   title: "Student",
   email: "Noorfatima1122330@outlook.com",
-  gitHub: "https://github.com/Noor-Fatima3",
+  gitHub: "Noor-Fatima3",
 };
 
 const primaryColor = "#4E567E";
