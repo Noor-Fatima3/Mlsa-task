@@ -30,7 +30,7 @@ const siteProps = {
   gitHub: "Noor-Fatima3",
 };
 
-const primaryColor = "#4E567E";
+const primaryColor = "#FFFFFF";
 const secondaryColor = "#D2F1E4";
 
 const App = () => {
